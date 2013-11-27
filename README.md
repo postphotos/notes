@@ -1,0 +1,4 @@
+notes
+=====
+
+New blog
